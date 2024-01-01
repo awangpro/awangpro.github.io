@@ -1782,6 +1782,14 @@ select:focus {
     display: inline-block;
 }
 
+.mobile-menu .nav-logo a img {
+    max-height: 58px;
+}
+
+.footer-logo a img {
+    max-height: 58px;
+}
+
 .mobile-menu-visible {
     overflow: hidden;
 }
